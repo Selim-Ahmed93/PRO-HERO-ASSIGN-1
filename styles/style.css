@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+font-family: "Open Sans", sans-serif;
+}
+.header-section{
+  max-Width: 1540px;
+Height: 620px;
+background-image: url(/assets/Hero-bg.png);
+}
+.banner-image{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.text-section{
+    text-align: center;
+    margin-top: 35px;
+font-size: larger;
+}
+button{
+    background-color: cadetblue;
+    margin-top: 20px;
+    
+}
+.main-section{
+    width: 1140px;
+    height: 1395px;
+    top: 857px;
+    left: 148px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-left: 180px;
+}
+.main-text{
+    text-align: center;
+}
+.btn{
+    margin: 8px;
+    padding: 10px;
+}
+.text-image{
+    margin: 50px;
+    padding: 50px;
+
+}
+.image-style{
+display: flex;
+justify-content:flex-end;
+padding-top: 10%;
+height: auto;
+width: auto;
+    
+}
+.h1-p{
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
